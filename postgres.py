@@ -1,5 +1,5 @@
 import psycopg2 
 
 def postgres_engine():
-    return "postgresql://postgres:ilovevatly1811L@localhost:5432/postgres"
+    return "postgresql://postgres:khumcogi123@localhost:5432/postgres"
 
